@@ -1,0 +1,11 @@
+var myName = 'Joshua Roland';
+var height = '6ft3in';
+var country = 'Nigeria';
+var newline = "\r\n";
+
+// alert("My name is " + name + newline + "I'm " + height + newline + "I'm from " + country);
+
+document.write("My name is " + myName + '\n');
+
+document.write("I'm " + height + " " + "tall" + '\n');
+document.write("I'm from " + country + '\n');
