@@ -3,7 +3,7 @@
  Inconlusive on whether to use alert or document.write, i used both. lol
 
 ## Hosted page
-https://rolandandkose.github.io/Javascript-task-2/
+[https://rolandandkose.github.io/Javascript-task-2/]
 
 ## Resources
 - YouTube
